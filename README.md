@@ -4,4 +4,5 @@ useful tools for simulation of many-body physics
 - spinmodels : Hamiltonians for the systems described in [Physical Review B 111 (21), 214421] and studied in [http://dx.doi.org/10.13140/RG.2.2.36742.02886]. Cite to refer.[ 25/11/25 : added spin conservation and translation symmetry ] 
 - TPQfile : Implemetation of thermal pure quantum states for thermodynamic properties calculations.
 - GScalculation : calculates ground state energies and correlators
-- DataCollection.jl : used to collect data for specific parameter values 
+- DataCollection.jl : used to collect data for specific parameter values
+- Heisenberg.jl : time evolution of a neel state using XXZ hamiltonian, using checkerboard gate model
