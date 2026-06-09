@@ -6,3 +6,4 @@ useful tools for simulation of many-body physics
 - GScalculation : calculates ground state energies and correlators
 - DataCollection.jl : used to collect data for specific parameter values
 - Heisenberg.jl : time evolution of a neel state using XXZ hamiltonian, using checkerboard gate model
+- Inftempsimulation.jl : created ancilla based, maximally entangled tensor network state
